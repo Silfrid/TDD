@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1678733535050" clover="3.2.0">
+  <project timestamp="1678733535050" name="All files">
+    <metrics statements="19" coveredstatements="14" conditionals="22" coveredconditionals="17" methods="6" coveredmethods="6" elements="47" coveredelements="37" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="operacoes.js" path="C:\Users\joabe.leal\Documents\TDD\src\operacoes.js">
+      <metrics statements="19" coveredstatements="14" conditionals="22" coveredconditionals="17" methods="6" coveredmethods="6"/>
+      <line num="2" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="10" count="5" type="cond" truecount="3" falsecount="1"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="18" count="8" type="cond" truecount="3" falsecount="1"/>
+      <line num="19" count="0" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="26" count="9" type="cond" truecount="3" falsecount="1"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="30" count="9" type="stmt"/>
+      <line num="34" count="9" type="cond" truecount="3" falsecount="1"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="38" count="9" type="stmt"/>
+      <line num="42" count="7" type="cond" truecount="1" falsecount="1"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="46" count="7" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
